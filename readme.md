@@ -12,7 +12,7 @@ This **Go** program determines the current phase of the Moon and displays it as 
 
 2. **Compile and install the program:**
    ```bash
-   go install github.com/ctrl-vfr/flying-to-the-moon
+   go install github.com/ctrl-vfr/flying-to-the-moon@latest
    ```
    Ensure that `GOPATH/bin` is included in your `PATH` environment variable.
 

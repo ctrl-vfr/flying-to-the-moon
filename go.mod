@@ -1,3 +1,3 @@
-module flying-to-the-moon
+module github.com/ctrl-vfr/flying-to-the-moon
 
 go 1.21.0
